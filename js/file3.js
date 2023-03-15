@@ -1,4 +1,2 @@
-console.log("hello")
-const time = 12;
-const massage = "Glory to Ukraine";
+const massage = prompt("what's your name?");
 console.log(massage);

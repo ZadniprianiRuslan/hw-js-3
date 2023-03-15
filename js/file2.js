@@ -1,11 +1,10 @@
-// console.log("hello")
-// const result = "hello there";
-// const after = result.length;
-// console.log(after)
-
-// or
-
-console.log("hello")
-const result = "hello there".length;
-const after = result.length;
-console.log(result);
+const name = "Ruslan";
+const age = 14;
+const myCars = null;
+const isStudent = false;
+const myHomeWorks = 2;
+let courseName;
+courseName = "js";
+let courseDurationMonths = 6;
+courseDurationMonths = 7;
+let pcPrice = 20000;
