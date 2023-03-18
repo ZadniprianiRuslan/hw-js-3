@@ -1,5 +1,3 @@
-const myAge = 14;
-const friendAge = 15;
-const sumary = myAge + friendAge;
-console.log(sumary);
-alert(sumary);
+const numberMin = 3;
+const numberMax = 19;
+console.log(Math.random() * (numberMax - numberMin) + numberMin);

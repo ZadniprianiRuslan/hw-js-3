@@ -1,10 +1,2 @@
-const name = "Ruslan";
-const age = 14;
-const myCars = null;
-const isStudent = false;
-const myHomeWorks = 2;
-let courseName;
-courseName = "js";
-let courseDurationMonths = 6;
-courseDurationMonths = 7;
-let pcPrice = 20000;
+const k1 = "5px"
+console.log(Number.parseFloat(k1));
